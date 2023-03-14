@@ -3,7 +3,7 @@ import requests
 from bs4 import BeautifulSoup
 from aiogram import Bot, Dispatcher, executor, types
 
-API_TOKEN = 'BOT_TOKEN_HERE'
+API_TOKEN = '5836460017:AAHW5wNl6L5UT2wP5F96PoOVOjydZbwp6t8'
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher(bot)
 
